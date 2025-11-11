@@ -11,8 +11,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Data files (optional)
-data/raw/*.csv
 
 # OS files
 .DS_Store
